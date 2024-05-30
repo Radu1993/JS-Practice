@@ -1,0 +1,50 @@
+[
+    {
+        "id": 11,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 22,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 33,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 44,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 55,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 66,
+        "srcThumbnail": "./kermit.jpeg",
+        "srcImage": "./images.jpg",
+        "title": "Fotografie cu portocale",
+        "shortDesc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+]
